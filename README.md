@@ -1,5 +1,7 @@
 # Neural-Network-Number-Detection-Tensorflow
-In this project we will classify handwritten digits using a simple neural network which has only input and output layers. We will than add a hidden layer and see how the performance of the model improves.
+In this project we will classify handwritten digits using a simple neural network which has only input and output layers. We will then add a hidden layer and see how the performance of the model improves.
+
+We are using tensorflow in this along with computer vision for this
 
 ## Contact
 For any enquiries please contact me at :
